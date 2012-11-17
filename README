@@ -1,1 +1,4 @@
-nfoView is an gtk3 nfo viewer writen in python
+nfoView
+
+nfoView.py [FILE]   will open nfoView whit the file FILE. further arguments are ignored.
+nfoView.py          will open NfoView
